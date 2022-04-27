@@ -25,6 +25,8 @@ https://user-images.githubusercontent.com/87006912/165521523-42372733-1e46-4826-
 
 
  - 캐릭터 이동, 점프 및 배경음 효과음 출력
+
+
 https://user-images.githubusercontent.com/87006912/165521156-bf7393cb-581c-486c-8685-5647b1d7adf8.mp4
 
 
